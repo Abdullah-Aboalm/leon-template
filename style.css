@@ -182,7 +182,7 @@ html {
 
 /* start landing */
 .landing {
-  background-image: url(/projects/leon/images/Mount_Everest_as_seen_from_Drukair2_PLW_edit_Cropped.jpg);
+  background-image: url(/projects/leon/images/Mount_Everest_as_seen_from_Drukair2_PLW_edit_Cropped.JPG);
   height: calc(100vh - 64px);
   background-size: cover;
   position: relative;
